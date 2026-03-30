@@ -130,7 +130,7 @@ streamlit run dashboard/app.py
 **Muhammad Rushaan Abbas**  
 BS Computer Engineering — FAST-NUCES, Lahore  
 📧 rushaan935@gmail.com  
-🔗 [LinkedIn](https://github.com/Rushaan-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/rushan-abbas-b45945357)
 
 ---
 
